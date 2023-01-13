@@ -1,0 +1,11 @@
+{
+   "Name": "[CP] StarAmy's Comprehensive Walls and Floros",
+   "Author": "StarAmy",
+   "Version": "1.0.0",
+   "Description": "All of my wallpapers and flooring combined via content patcher",
+   "UniqueID": "StarAmy.ComprehensiveWalls",
+   "MinimumApiVersion": "1.2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+}
